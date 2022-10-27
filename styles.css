@@ -1,10 +1,7 @@
 body {
 	background: black;
 }
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
+
 .postcard {
 	background: white;
 	width: 400px;
@@ -47,4 +44,5 @@ button {
 	background-color: darkgray;
 	padding: 3px;
 	font-family: cursive;
+	border-radius: 8px;
 }
